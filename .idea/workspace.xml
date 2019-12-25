@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a5eed67-9d8f-4164-bc3e-177d358ea393" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stats/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/stats/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stats/build/CSVFileReader.js" beforeDir="false" afterPath="$PROJECT_DIR$/stats/build/CSVFileReader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stats/build/MatchReader.js" beforeDir="false" afterPath="$PROJECT_DIR$/stats/build/MatchReader.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stats/build/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/stats/build/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stats/src/CSVFileReader.ts" beforeDir="false" afterPath="$PROJECT_DIR$/stats/src/CSVFileReader.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stats/src/MatchReader.ts" beforeDir="false" afterPath="$PROJECT_DIR$/stats/src/MatchReader.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stats/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/stats/src/index.ts" afterDir="false" />
     </list>
@@ -49,15 +45,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/stats/src" />
+      <recent name="$PROJECT_DIR$/stats/src/analyzers" />
       <recent name="$PROJECT_DIR$/app/src" />
       <recent name="$PROJECT_DIR$/app" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/test" />
     </key>
   </component>
   <component name="RunManager">
@@ -104,7 +101,7 @@
       <workItem from="1576646030583" duration="18000" />
       <workItem from="1576646063335" duration="67000" />
       <workItem from="1576646146827" duration="40000" />
-      <workItem from="1577261578876" duration="5414000" />
+      <workItem from="1577261578876" duration="10814000" />
     </task>
     <servers />
   </component>
@@ -112,15 +109,11 @@
     <option name="version" value="1" />
     <option name="exactExcludedFiles">
       <list>
-        <option value="$PROJECT_DIR$/test/test.js.map" />
-        <option value="$PROJECT_DIR$/test/test.js" />
-        <option value="$PROJECT_DIR$/app/app.js" />
-        <option value="$PROJECT_DIR$/app/server.js" />
-        <option value="$PROJECT_DIR$/maps/src/index.js" />
-        <option value="$PROJECT_DIR$/maps/src/Company.js" />
-        <option value="$PROJECT_DIR$/maps/src/CustomMap.js" />
-        <option value="$PROJECT_DIR$/maps/src/User.js" />
         <option value="$PROJECT_DIR$/features/functions.js" />
+        <option value="$PROJECT_DIR$/maps/src/CustomMap.js" />
+        <option value="$PROJECT_DIR$/maps/src/Company.js" />
+        <option value="$PROJECT_DIR$/maps/src/User.js" />
+        <option value="$PROJECT_DIR$/maps/src/index.js" />
       </list>
     </option>
   </component>
@@ -136,6 +129,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="556" y="59" width="800" height="684" key="#TypeScript" timestamp="1577285901254">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="556" y="59" width="800" height="684" key="#TypeScript/0.27.1366.741@0.27.1366.741" timestamp="1577285901254" />
     <state x="366" y="124" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1576077220567">
       <screen x="0" y="24" width="1366" height="744" />
     </state>
@@ -172,13 +169,13 @@
       <screen x="0" y="24" width="1366" height="744" />
     </state>
     <state width="660" height="176" key="GridCell.Tab.0.right/0.24.1366.744@0.24.1366.744" timestamp="1576078122971" />
-    <state x="311" y="38" width="910" height="730" key="SettingsEditor" timestamp="1577263075089">
+    <state x="311" y="31" width="910" height="737" key="SettingsEditor" timestamp="1577284142920">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="311" y="35" key="SettingsEditor/0.22.1366.746@0.22.1366.746" timestamp="1576646127561" />
     <state x="311" y="38" width="900" height="730" key="SettingsEditor/0.24.1366.744@0.24.1366.744" timestamp="1576078376946" />
     <state x="311" y="38" key="SettingsEditor/0.25.1366.743@0.25.1366.743" timestamp="1576412532989" />
-    <state x="311" y="38" width="910" height="730" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1577263075089" />
+    <state x="311" y="31" width="910" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1577284142920" />
     <state x="362" y="222" key="com.intellij.ide.util.TipDialog" timestamp="1576646146582">
       <screen x="0" y="22" width="1366" height="746" />
     </state>
