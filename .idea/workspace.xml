@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a5eed67-9d8f-4164-bc3e-177d358ea393" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UqGuMDIrRXXxpEeELBtVUlrGRx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../app/graph-app" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/maps/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src" />
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/test" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test/test.js" working-dir="$PROJECT_DIR$/test">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.test.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a5eed67-9d8f-4164-bc3e-177d358ea393" name="Default Changelist" comment="" />
+      <created>1576076934394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576076934394</updated>
+      <workItem from="1576076937204" duration="180000" />
+      <workItem from="1576077205924" duration="18000" />
+      <workItem from="1576077246350" duration="6000" />
+      <workItem from="1576077742404" duration="101000" />
+      <workItem from="1576077854712" duration="523000" />
+      <workItem from="1576078392145" duration="1524000" />
+      <workItem from="1576412474346" duration="727000" />
+      <workItem from="1576507979327" duration="645000" />
+      <workItem from="1576645036677" duration="49000" />
+      <workItem from="1576646030583" duration="18000" />
+      <workItem from="1576646063335" duration="67000" />
+      <workItem from="1576646146827" duration="40000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/test/test.js.map" />
+        <option value="$PROJECT_DIR$/test/test.js" />
+        <option value="$PROJECT_DIR$/app/app.js" />
+        <option value="$PROJECT_DIR$/app/server.js" />
+        <option value="$PROJECT_DIR$/maps/src/index.js" />
+        <option value="$PROJECT_DIR$/maps/src/Company.js" />
+        <option value="$PROJECT_DIR$/maps/src/CustomMap.js" />
+        <option value="$PROJECT_DIR$/maps/src/User.js" />
+        <option value="$PROJECT_DIR$/features/functions.js" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="366" y="124" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1576077220567">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="366" y="124" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.24.1366.744@0.24.1366.744" timestamp="1576077220567" />
+    <state x="802" y="154" width="424" height="482" key="FileChooserDialogImpl" timestamp="1576509642313">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="802" y="154" width="424" height="482" key="FileChooserDialogImpl/0.25.1366.743@0.25.1366.743" timestamp="1576509642313" />
+    <state width="660" height="176" key="GridCell.Tab.0.bottom" timestamp="1576078122972">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="660" height="176" key="GridCell.Tab.0.bottom/0.24.1366.744@0.24.1366.744" timestamp="1576078122972" />
+    <state width="660" height="176" key="GridCell.Tab.0.center" timestamp="1576078122971">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="660" height="176" key="GridCell.Tab.0.center/0.24.1366.744@0.24.1366.744" timestamp="1576078122971" />
+    <state width="660" height="176" key="GridCell.Tab.0.left" timestamp="1576078122971">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="660" height="176" key="GridCell.Tab.0.left/0.24.1366.744@0.24.1366.744" timestamp="1576078122971" />
+    <state width="660" height="176" key="GridCell.Tab.0.right" timestamp="1576078122971">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state width="660" height="176" key="GridCell.Tab.0.right/0.24.1366.744@0.24.1366.744" timestamp="1576078122971" />
+    <state x="311" y="35" width="900" height="730" key="SettingsEditor" timestamp="1576646127561">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state x="311" y="35" key="SettingsEditor/0.22.1366.746@0.22.1366.746" timestamp="1576646127561" />
+    <state x="311" y="38" width="900" height="730" key="SettingsEditor/0.24.1366.744@0.24.1366.744" timestamp="1576078376946" />
+    <state x="311" y="38" key="SettingsEditor/0.25.1366.743@0.25.1366.743" timestamp="1576412532989" />
+    <state x="362" y="222" key="com.intellij.ide.util.TipDialog" timestamp="1576646146582">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state x="362" y="222" key="com.intellij.ide.util.TipDialog/0.22.1366.746@0.22.1366.746" timestamp="1576646146582" />
+    <state x="362" y="223" key="com.intellij.ide.util.TipDialog/0.24.1366.744@0.24.1366.744" timestamp="1576077245474" />
+    <state x="687" y="89" key="search.everywhere.popup" timestamp="1576412537606">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="687" y="89" key="search.everywhere.popup/0.25.1366.743@0.25.1366.743" timestamp="1576412537606" />
+  </component>
+</project>
