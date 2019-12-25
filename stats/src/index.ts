@@ -1,8 +1,14 @@
-import { MatchReader } from './inheritance/MatchReader';
+import { MatchReader } from './MatchReader';
 import { MatchResult } from './MatchResult';
-const reader = new MatchReader('football.csv');
-reader.read();
-const matches = reader.data;
+import {CsvFileReader} from "./CSVFileReader";
+
+//Create an object tha satisfies the DataReader interface
+const csvFileReader = new CsvFileReader('football.csv');
+
+//Create an instace of MatchReader and pass in something satis fying
+const matchReader = new MatchReader(csvFileReader);
+matchReader.load()
+const matches = matchReader.matches;
 
 const dateOfFirstMatch = matches[0][0];
 console.log(dateOfFirstMatch);
@@ -15,4 +21,5 @@ for (let match of matches) {
     manUnitedWins++;
   }
 }
+
 console.log(manUnitedWins);
