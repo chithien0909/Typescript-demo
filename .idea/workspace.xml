@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a5eed67-9d8f-4164-bc3e-177d358ea393" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stats/build/MatchReader.js" beforeDir="false" afterPath="$PROJECT_DIR$/stats/build/MatchReader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stats/build/Summary.js" beforeDir="false" afterPath="$PROJECT_DIR$/stats/build/Summary.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stats/build/analyzers/WinsAnalysis.js" beforeDir="false" afterPath="$PROJECT_DIR$/stats/build/analyzers/WinsAnalysis.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stats/build/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/stats/build/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stats/src/MatchReader.ts" beforeDir="false" afterPath="$PROJECT_DIR$/stats/src/MatchReader.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stats/src/Summary.ts" beforeDir="false" afterPath="$PROJECT_DIR$/stats/src/Summary.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stats/src/analyzers/WinsAnalysis.ts" beforeDir="false" afterPath="$PROJECT_DIR$/stats/src/analyzers/WinsAnalysis.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stats/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/stats/src/index.ts" afterDir="false" />
-    </list>
+    <list default="true" id="1a5eed67-9d8f-4164-bc3e-177d358ea393" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,7 +97,7 @@
       <workItem from="1576646063335" duration="67000" />
       <workItem from="1576646146827" duration="40000" />
       <workItem from="1577261578876" duration="14266000" />
-      <workItem from="1577373407860" duration="601000" />
+      <workItem from="1577373407860" duration="1271000" />
     </task>
     <servers />
   </component>
